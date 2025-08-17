@@ -1,0 +1,26 @@
+Proficiency in HTML, CSS, and JavaScript for front-
+end development.
+
+Strong knowledge of OOP (Object-Oriented
+Programming) principles.
+
+Experience with Node.js for back-end development.
+
+Familiarity with database systems like MongoDB
+and MySQL.
+
+Experience with cloud platforms such as AWS and
+Azure.
+
+Exposure to using and integrating ChatGPT or other
+conversational Al models.
+
+Proficiency in version control using Git and GitHub.
+
+Strong problem-solving skills and attention to
+detail.
+
+Familiarity with spring boot
+
+Ability to work collaboratively in a team
+environment
